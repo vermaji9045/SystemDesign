@@ -22,3 +22,5 @@ public class PayForNonMerchant extends PaymentFlow{
         System.out.println("Money credit to the receiver's Bank");
     }
 }
+
+

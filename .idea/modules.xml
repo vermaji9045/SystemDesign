@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainResDesign/ChainResDesign.iml" filepath="$PROJECT_DIR$/ChainResDesign/ChainResDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorDesing/IteratorDesing.iml" filepath="$PROJECT_DIR$/IteratorDesing/IteratorDesing.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD SystemDesing.iml" filepath="$PROJECT_DIR$/LLD SystemDesing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorSystemDesign/MediatorSystemDesign.iml" filepath="$PROJECT_DIR$/MediatorSystemDesign/MediatorSystemDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimDuckApp-Problem/SimDuckApp-Problem.iml" filepath="$PROJECT_DIR$/SimDuckApp-Problem/SimDuckApp-Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateSystemDesign/TemplateSystemDesign.iml" filepath="$PROJECT_DIR$/TemplateSystemDesign/TemplateSystemDesign.iml" />
     </modules>
   </component>

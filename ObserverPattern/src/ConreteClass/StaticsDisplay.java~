@@ -1,0 +1,25 @@
+package ConreteClass;
+
+import Interface.Display;
+import Interface.Observer;
+
+public class StaticsDisplay implements Observer, Display {
+
+
+    @Override
+    public void display() {
+
+
+    }
+
+
+    /**
+     * @param temp
+     * @param humidity
+     * @param pressure
+     */
+    @Override
+    public void update(float temp, float humidity, float pressure) {
+
+    }
+}
