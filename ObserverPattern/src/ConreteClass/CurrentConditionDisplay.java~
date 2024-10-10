@@ -13,7 +13,7 @@ public class CurrentConditionDisplay implements Observer, Display {
     Subject wheatherData;
     public CurrentConditionDisplay(Subject wheatherData) {
         this.wheatherData = wheatherData;
-        wheatherData.registerObserver(this);
+
     }
 
 

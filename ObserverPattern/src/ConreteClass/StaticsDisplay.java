@@ -14,6 +14,7 @@ public class StaticsDisplay implements Observer, Display {
 
     public StaticsDisplay(Subject wheatherData) {
         this.wheatherData = wheatherData;
+        wheatherData.registerObserver(this);
     }
 
     @Override

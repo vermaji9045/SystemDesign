@@ -14,6 +14,7 @@ public class ForecastDisplay implements Observer, Display {
     Subject wheatherData;
     public ForecastDisplay(Subject wheatherData) {
         this.wheatherData = wheatherData;
+        wheatherData.registerObserver(this);
 
     }
     @Override
